@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nigamkumari07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Nigamkumari07/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nigamkumari07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Nigamkumari07/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nigamkumari07/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nigamkumari07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Nigamkumari07/leetcode/tree/master/1539-kth-missing-positive-number) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Nigamkumari07/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
