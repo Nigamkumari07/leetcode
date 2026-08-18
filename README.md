@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nigamkumari07/leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Nigamkumari07/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nigamkumari07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nigamkumari07/leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Nigamkumari07/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nigamkumari07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
