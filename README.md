@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Nigamkumari07/leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Nigamkumari07/leetcode/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nigamkumari07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Nigamkumari07/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nigamkumari07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nigamkumari07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Nigamkumari07/leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Nigamkumari07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Nigamkumari07/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Nigamkumari07/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nigamkumari07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
