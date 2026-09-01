@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nigamkumari07/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Nigamkumari07/leetcode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Nigamkumari07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Nigamkumari07/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nigamkumari07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nigamkumari07/leetcode/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Nigamkumari07/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nigamkumari07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nigamkumari07/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -149,4 +151,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nigamkumari07/leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
