@@ -23,6 +23,7 @@ A collection of LeetCode questions.
 | [0930-binary-subarrays-with-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nigamkumari07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nigamkumari07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nigamkumari07/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nigamkumari07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Nigamkumari07/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions.
 | [0904-fruit-into-baskets](https://github.com/Nigamkumari07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Nigamkumari07/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions.
 | [0904-fruit-into-baskets](https://github.com/Nigamkumari07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nigamkumari07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nigamkumari07/leetcode/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions.
 | [0560-subarray-sum-equals-k](https://github.com/Nigamkumari07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nigamkumari07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
