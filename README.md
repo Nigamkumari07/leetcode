@@ -128,6 +128,7 @@ A collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nigamkumari07/leetcode/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/Nigamkumari07/leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
