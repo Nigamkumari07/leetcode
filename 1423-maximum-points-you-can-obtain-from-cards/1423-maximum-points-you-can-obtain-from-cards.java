@@ -5,19 +5,22 @@ class Solution {
 
         int sum = 0;
 
-        // First k cards from left
+        // Initially k cards from LEFT
         for (int i = 0; i < k; i++) {
             sum += cardPoints[i];
         }
 
         int max = sum;
 
+        int hi = k - 1;
         int r = n - 1;
 
-        // Replace left cards one by one with right cards
-        for (int i = k - 1; i >= 0; i--) {
+        // One by one replace left card with right card
+        while (hi >= 0) {
 
-            sum -= cardPoints[i];
+            sum -= cardPoints[hi];
+            hi--;
+
             sum += cardPoints[r];
             r--;
 
