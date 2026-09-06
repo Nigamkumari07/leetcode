@@ -1,19 +1,29 @@
 class Solution {
-    public int numberOfSubstrings(String s) {
-        int n = s.length();
-        int[] lastseen = {-1,-1,-1};// last index of a,b,c
-        int cnt = 0;
-       for(int i = 0;i<n;i++){
-        lastseen[s.charAt(i)-'a'] = i;//currant char ki index liko->lastseen index
-        // each characters ka update karo
-        //its mean teeno characters mil chuke h
-        if(lastseen[0]!= -1 && lastseen[1]!= -1 && lastseen[2]!= -1){
-            cnt += 1 + Math.min(lastseen[0],Math.min(lastseen[1],lastseen[2]));
-     //teeno characters ka sabse chota index batata h-> mtlb y describe krta
-     // hai ki substrings kaha se start hogi    
-
-       }
+    static long atmost(String s,int k){
+        int lo=0;int hi=0;long ans =0;
+        int n =s.length();
+        HashMap<Character,Integer>f=new HashMap<>();
+        while(hi<n){
+            char ch =s.charAt(hi);
+            f.put(ch,f.getOrDefault(ch,0)+1);
+            while(f.size()>k){
+                char left = s.charAt(lo);
+                f.put(left,f.get(left)-1);
+                if(f.get(left)==0){
+                    f.remove(left);
+                }
+                lo++;
+            }
+            ans += hi-lo+1;
+            hi++;
         }
-        return cnt;
+        return ans;
     }
+    public int numberOfSubstrings(String s) {
+        int k=3;
+	   int n = s.length();
+	   long total=(long)n*(n+1)/2;
+		return (int)(total-atmost(s,k-1));  
+    }
+    
 }
