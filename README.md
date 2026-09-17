@@ -7,6 +7,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Nigamkumari07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nigamkumari07/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Nigamkumari07/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nigamkumari07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Nigamkumari07/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Nigamkumari07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/Nigamkumari07/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nigamkumari07/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/Nigamkumari07/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nigamkumari07/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
