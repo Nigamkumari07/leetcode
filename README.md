@@ -36,6 +36,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nigamkumari07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Nigamkumari07/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Nigamkumari07/leetcode/tree/master/0409-longest-palindrome) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nigamkumari07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Nigamkumari07/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Nigamkumari07/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nigamkumari07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/Nigamkumari07/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nigamkumari07/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nigamkumari07/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Nigamkumari07/leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/Nigamkumari07/leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
