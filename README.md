@@ -32,6 +32,7 @@ A collection of LeetCode questions.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nigamkumari07/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nigamkumari07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Nigamkumari07/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nigamkumari07/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions.
 | [0015-3sum](https://github.com/Nigamkumari07/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Nigamkumari07/leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nigamkumari07/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nigamkumari07/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nigamkumari07/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
