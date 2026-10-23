@@ -9,6 +9,7 @@ A collection of LeetCode questions.
 | [0001-two-sum](https://github.com/Nigamkumari07/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nigamkumari07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nigamkumari07/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nigamkumari07/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Nigamkumari07/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Nigamkumari07/leetcode/tree/master/0053-maximum-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nigamkumari07/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nigamkumari07/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Nigamkumari07/leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nigamkumari07/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nigamkumari07/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nigamkumari07/leetcode/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
