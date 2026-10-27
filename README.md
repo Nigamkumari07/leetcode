@@ -18,6 +18,7 @@ A collection of LeetCode questions.
 | [0136-single-number](https://github.com/Nigamkumari07/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nigamkumari07/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Nigamkumari07/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Nigamkumari07/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Nigamkumari07/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions.
 | [0007-reverse-integer](https://github.com/Nigamkumari07/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nigamkumari07/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nigamkumari07/leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Nigamkumari07/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Nigamkumari07/leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nigamkumari07/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions.
 | [0015-3sum](https://github.com/Nigamkumari07/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nigamkumari07/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Nigamkumari07/leetcode/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/Nigamkumari07/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nigamkumari07/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
