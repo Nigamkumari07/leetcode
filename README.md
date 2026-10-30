@@ -30,6 +30,7 @@ A collection of LeetCode questions.
 | [0992-subarrays-with-k-different-integers](https://github.com/Nigamkumari07/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nigamkumari07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nigamkumari07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Nigamkumari07/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nigamkumari07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nigamkumari07/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nigamkumari07/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions.
 | [0118-pascals-triangle](https://github.com/Nigamkumari07/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Nigamkumari07/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Nigamkumari07/leetcode/tree/master/0509-fibonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Nigamkumari07/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Recursion
 |  |
 | ------- |
