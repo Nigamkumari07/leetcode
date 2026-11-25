@@ -12,6 +12,7 @@ A collection of LeetCode questions.
 | [0016-3sum-closest](https://github.com/Nigamkumari07/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Nigamkumari07/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Nigamkumari07/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Nigamkumari07/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Nigamkumari07/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0088-merge-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nigamkumari07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Nigamkumari07/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Nigamkumari07/leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Nigamkumari07/leetcode/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Nigamkumari07/leetcode/tree/master/0875-koko-eating-bananas) |
